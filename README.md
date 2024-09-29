@@ -3,6 +3,7 @@
 🍹 Drink Cards with Hover Animations
 
 This project is a collection of visually appealing drink brand cards, each featuring unique hover animations, product images, and interactive elements. Built entirely with HTML & CSS, it highlights creative use of transitions and modern web design techniques to make each card feel alive as the user interacts with it.
+
 🔥 Features:
 
 Hover Animations: Smooth CSS transitions that expand the card and reveal detailed content upon hovering, offering a rich user experience.
